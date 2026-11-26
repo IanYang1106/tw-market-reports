@@ -1,17 +1,37 @@
 {
   "site_title": "台股市場雷達 · 財經簡報書架",
   "site_subtitle": "每日盤前雷達與盤後覆盤 A4 PDF 財經簡報歸檔",
-  "updated_at": "2026-11-25 22:49",
-  "total_count": 2,
+  "updated_at": "2026-11-26 19:51",
+  "total_count": 4,
   "reports": [
+    {
+      "filename": "2026-11-26_postmarket.pdf",
+      "report_date": "2026-11-26",
+      "mode": "postmarket",
+      "mode_label": "盤後覆盤",
+      "display_title": "2026-11-26 台股盤後覆盤",
+      "size_kb": 1538.0,
+      "updated_at": "2026-11-26 19:47",
+      "pdf_rel_path": "pdfs/2026-11-26_postmarket.pdf"
+    },
+    {
+      "filename": "2026-11-26_premarket.pdf",
+      "report_date": "2026-11-26",
+      "mode": "premarket",
+      "mode_label": "盤前雷達",
+      "display_title": "2026-11-26 台股盤前雷達",
+      "size_kb": 1250.4,
+      "updated_at": "2026-11-26 19:51",
+      "pdf_rel_path": "pdfs/2026-11-26_premarket.pdf"
+    },
     {
       "filename": "2026-11-25_postmarket.pdf",
       "report_date": "2026-11-25",
       "mode": "postmarket",
       "mode_label": "盤後覆盤",
       "display_title": "2026-11-25 台股盤後覆盤",
-      "size_kb": 1469.4,
-      "updated_at": "2026-11-25 22:47",
+      "size_kb": 1272.9,
+      "updated_at": "2026-11-26 08:28",
       "pdf_rel_path": "pdfs/2026-11-25_postmarket.pdf"
     },
     {
